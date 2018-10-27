@@ -12,7 +12,7 @@ class Base extends Controller
     
     public function check()
     {
-        return 'check12哈哈';
+        return 'check12哈';
     }
     
 }
